@@ -1,0 +1,6 @@
+{
+  "name": "Estratto — Apresentação Comercial & Proposta Interativa",
+  "description": "Apresentação comercial dinâmica da Estratto Estúdio Colaborativo com página interativa de proposta, adicionais opcionais, aceite via WhatsApp e editor reutilizável de links para clientes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
